@@ -1,2 +1,2 @@
 # MAD_LAB 
-hi i am dev
+MAD LAB ALL EXERCISES
